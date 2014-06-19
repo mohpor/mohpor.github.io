@@ -1,0 +1,10 @@
+# Site settings
+title: Poroosh
+email: porooshani@gmail.com
+description: "This is my website, get used to it!"
+baseurl: "poroosh.com"
+url: "http://www.poroosh.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
